@@ -9,8 +9,9 @@ package pluggusmedia;
  *
  * @author personal
  */
-public class chetanie {
+public class chethanie {
     public static void main(String[] args) {
         //------
+        System.out.println("Hii");
     }
 }

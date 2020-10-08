@@ -16,6 +16,6 @@ public class PluggusMedia {
      */
     public static void main(String[] args) {
         System.out.println("oook....running the app");
-        System.out.println("im chetanie");
+        System.out.println("im chethanie");
     }    
 }
