@@ -12,10 +12,7 @@ import java.math.BigDecimal;
  * @author personal
  */
 public class Item {
-    /*
-    item_id, item_name, item_barcode, item_type, item_unit_price, item_category_name,
-    item_sub_category_name, item_category_id, item_sub_category_id, item_status, item_detail
-    */
+
 private int ItemId;
 private String ItemName;
 private String ItemBarcode;
